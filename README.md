@@ -9,8 +9,6 @@ Firefox add-on that automatically enters live **NoPixel Twitch card giveaways**,
 
 <p align="center">
   <img src="images/popup.png" alt="NP AutoGiveaway popup showing live giveaways with entered, joining, queued and failed status" width="380">
-  &nbsp;&nbsp;
-  <img src="images/popup-activity.png" alt="NP AutoGiveaway popup with settings and activity log expanded" width="380">
 </p>
 
 ## Install
